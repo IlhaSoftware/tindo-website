@@ -909,9 +909,9 @@ textarea.form-control {
 .fluid_header .navbar-nav.navbar-right li.dropdown.mega-drop .mega-menu li.start_offer .inner .offered_price
 	{
 	margin-top: 30px;
+	margin-bottom: 30px;
 	color: #fff;
 	line-height: 1;
-	margin-bottom: 0;
 	font-family: 'Lato', sans-serif;
 	font-weight: bold;
 }
