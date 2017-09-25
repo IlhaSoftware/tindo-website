@@ -1,0 +1,11 @@
+{
+  "libs": [
+    "ecma5"
+  ],
+  "plugins": {
+    "outline": {
+      
+    }
+  },
+  "ecmaVersion": 5
+}
