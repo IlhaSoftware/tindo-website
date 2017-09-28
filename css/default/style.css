@@ -1211,6 +1211,10 @@ footer .top_footer .beInContact .country_select .dropdown-menu li a:hover
 	background: #0c112a;
 }
 
+footer .top_footer .beInContact .social_icos.politics a {
+	display: block;
+}
+
 footer .top_footer .beInContact .social_icos {
 	padding: 38px 0 28px;
 	text-align: center;
