@@ -1865,23 +1865,22 @@ footer .copyright_line {
 
 section.pricing div.full-container {
 	width: 100%;
-	padding: 0px 50px;
 	display: -webkit-flex;
 	display: flex;
-	-webkit-justify-content: space-between;
-	justify-content: space-between;
+	-webkit-justify-content: space-evenly;
+	justify-content: space-evenly;
 	-webkit-flex-wrap: wrap;
 	flex-wrap: wrap;
 }
 
 .pricing .full-container .plan {
 	z-index: 30;
-	margin: 0px 10px 2rem 10px;
 	background-color: white;
 	border: 1px solid #2a76a8 !important;
 	font-family: 'Roboto', sans-serif;
 	width: 330px !important;
-	height: 745px !important;
+	height: 750px !important;
+	margin: 5px;
 	-webkit-align-items: end;
 	align-items: end;
 }
@@ -1903,7 +1902,6 @@ section.pricing div.full-container {
 	font-weight: 300;
 	line-height: 1;
 	color: white;
-	margin-bottom: 10px;
 	text-transform: uppercase;
 	background-color: #2a76a8;
 }
@@ -1988,7 +1986,7 @@ section.pricing div.full-container {
 
 .pricing .full-container .plan .disclaimer {
 	font-size: 11px;
-	margin: 1rem;
+	margin: 10px;
 	position: absolute;
 	left: 0px;
 	right: 0px;
@@ -1999,8 +1997,20 @@ section.pricing div.full-container {
 .pricing .full-container .plan .disclaimer p {
 	opacity: .7;
 	color: #000;
-	margin: .5rem;
+	margin: .3em 0px;
 	line-height: 1.5;
+}
+
+.pricing .full-container .plan .disclaimer.plan-total {
+	position: relative;
+	height: 26px;
+	margin: 0;
+}
+
+.pricing .full-container .plan .disclaimer.plan-total p {
+	align-self: center;
+	padding: 5px 0px;
+	margin: 0;
 }
 
 /*----------------------------------------------------------------*/
