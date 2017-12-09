@@ -41,7 +41,7 @@ This files contents are outlined below.
   /*Tabs*/
   /*Columns*/
   /**
-    * Columns are follow by Twitter Bootstrap. Please Follow Twitter Bootstrap for this. 
+    * Columns are follow by Twitter Bootstrap. Please Follow Twitter Bootstrap for this.
     */
   /*List Row Style*/
   /*List*/
@@ -72,7 +72,7 @@ This files contents are outlined below.
   /*Tabs*/
   /*Columns*/
   /**
-    * Columns are follow by Twitter Bootstrap. Please Follow Twitter Bootstrap for this. 
+    * Columns are follow by Twitter Bootstrap. Please Follow Twitter Bootstrap for this.
     */
   /*List Row Style*/
   /*List*/
@@ -122,7 +122,7 @@ This files contents are outlined below.
   /*Tabs*/
   /*Columns*/
   /**
-    * Columns are follow by Twitter Bootstrap. Please Follow Twitter Bootstrap for this. 
+    * Columns are follow by Twitter Bootstrap. Please Follow Twitter Bootstrap for this.
     */
   /*List Row Style*/
   /*List*/
@@ -179,7 +179,7 @@ This files contents are outlined below.
   }
   /*Columns*/
   /**
-    * Columns are follow by Twitter Bootstrap. Please Follow Twitter Bootstrap for this. 
+    * Columns are follow by Twitter Bootstrap. Please Follow Twitter Bootstrap for this.
     */
   /*List Row Style*/
   /*List*/
@@ -282,7 +282,10 @@ This files contents are outlined below.
     width: auto;
   }
   .fluid_header.centered .navbar-header .navbar-brand {
-    padding: 21px 15px;
+    padding-top: 16px;
+  	padding-bottom: 16px;
+  	padding-left: 15px;
+    padding-right: 0px;
   }
   .fluid_header.centered .navbar-collapse .navbar-nav.navbar-right li a {
     padding: 0 15px;
@@ -318,7 +321,10 @@ This files contents are outlined below.
     width: auto;
   }
   .fluid_header.centered .navbar-header .navbar-brand {
-    padding: 21px 10px;
+    padding-top: 16px;
+  	padding-bottom: 16px;
+  	padding-left: 10px;
+    padding-right: 0px;
   }
   .fluid_header.centered .navbar-collapse .navbar-nav.navbar-right li a {
     padding: 0 10px;
@@ -327,7 +333,6 @@ This files contents are outlined below.
     font-size: 13px;
     line-height: 28px;
     position: relative;
-    left: -2%;
   }
   .top_header .container {
     width: 100%;
@@ -434,7 +439,7 @@ This files contents are outlined below.
     padding: 0;
   }
   .fluid_header.centered .navbar-header .navbar-brand {
-    padding: 15px;
+    padding: 10px 15px;
   }
   .fluid_header.centered .navbar-header .navbar-toggle {
     margin: 15px 46px 14px 0;
@@ -1082,7 +1087,7 @@ This files contents are outlined below.
     padding-bottom: 40px;
     font-size: 14px;
     position: relative;
-    right: 10px;    
+    right: 10px;
   }
   .facts .fact:nth-child(3) {
     border-left: none;

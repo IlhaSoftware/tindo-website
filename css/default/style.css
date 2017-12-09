@@ -86,7 +86,7 @@ a:focus, .btn:focus, button:focus, a:hover, .btn:hover, button:hover {
   width: 100vw;
   height: 100vh;
   position: fixed;
-  z-index: 99999;  
+  z-index: 99999;
   background: url(../../images/logo-de-abertura-site.jpg) no-repeat scroll center center;
 }
 .preloader .dots-loader {
@@ -521,7 +521,7 @@ p {
 	margin-bottom: 20px;
 }
 /**
-* Columns are follow by Twitter Bootstrap. Please Follow Twitter Bootstrap for this. 
+* Columns are follow by Twitter Bootstrap. Please Follow Twitter Bootstrap for this.
 */
 /*List Row Style*/
 .listRow .widgetTitle {
@@ -693,7 +693,9 @@ textarea.form-control {
 
 .fluid_header .navbar-header .navbar-brand {
 	z-index: 2;
-	padding: 21px 15px;
+	padding-top: 16px;
+	padding-bottom: 16px;
+	padding-left: 15px;
 	height: auto;
 }
 
@@ -1632,7 +1634,7 @@ footer .copyright_line {
 
 .service_tabs_list .service_tab:nth-child(even) .ico_price .ico {
 	/* background: #f0f5f6;*/
-	
+
 }
 /*----------------------------------------------------------------*/
 .sectionTitle {
@@ -3553,7 +3555,7 @@ section.pricing div.full-container {
 
 .this_top_features .this_top_feature:nth-child(even) {
 	/*background: #f1f6f8;*/
-	
+
 }
 
 .this_top_features .this_top_feature:nth-child(2) {
@@ -3651,7 +3653,7 @@ section.pricing div.full-container {
 
 .home_slider .owl-controls .owl-nav div:hover {
 	/*background: #4B75A5;*/
-	
+
 }
 
 .home_slider.home_slider2 .item .slide_caption {
@@ -4169,7 +4171,7 @@ section.pricing div.full-container {
 .featureTab .featureTab_contents .tab-content .tab-pane .content_row.whats_under_hood
 	{
 	/*background-image: #f6fafb;*/
-	
+
 }
 
 .featureTab .featureTab_contents .tab-content .tab-pane .content_row .under_hood
