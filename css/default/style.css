@@ -1882,7 +1882,7 @@ section.pricing div.full-container {
 	background-color: white;
 	border: 1px solid #2a76a8 !important;
 	font-family: 'Roboto', sans-serif;
-	width: 330px !important;
+	width: 230px !important;
 	height: 750px !important;
 	margin: 5px;
 	-webkit-align-items: end;
@@ -1951,7 +1951,7 @@ section.pricing div.full-container {
 }
 
 .pricing .full-container .plan .contratar .btn {
-	width: 250px;
+	width: 200px;
 	margin-bottom: 10px;
 }
 
@@ -1971,7 +1971,7 @@ section.pricing div.full-container {
 	list-style: none;
 	margin-bottom: 10px;
 	position: relative;
-	padding: 0px 60px;
+	padding: 0px 08px;
 	line-height: 1;
 }
 
