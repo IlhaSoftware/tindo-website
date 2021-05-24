@@ -1,0 +1,30 @@
+{
+  "name": "rc-wordpress-base",
+  "version": "0.8.8",
+  "homepage": "http://rockcontent.com",
+  "authors": [
+    "Hugo Dias <hugo.dias@rockcontent.com>"
+  ],
+  "description": "Rock Content Base Template",
+  "moduleType": "globals",
+  "main": [
+    "sass/theme.scss"
+  ],
+  "keywords": [
+    "bootstrap",
+    "wordpress",
+    "_s",
+    "sass"
+  ],
+  "license": "GPL-2.0",
+  "ignore": [
+    "**/.*",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  },
+  "_source": "https://github.com/rockcontent/rc-wordpress-base.git",
+  "_target": "~0.8.8",
+  "_originalSource": "rc-wordpress-base"
+}
