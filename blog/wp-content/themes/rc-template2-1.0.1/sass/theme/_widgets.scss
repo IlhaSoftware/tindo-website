@@ -1,0 +1,90 @@
+.widget-area {
+  .widget-title {
+    width: 100%;
+    text-align: left;
+    border-bottom: 1px solid $primary;
+    background: transparent;
+    color: $secondary;
+    letter-spacing: 0.1em !important;
+    line-height: 41px !important;
+    font-size: 17px;
+    margin: 0 1px;
+    margin-top: 1px;
+    margin-bottom: 17px;
+    text-transform: uppercase;
+  }
+}
+
+.widget {
+  margin-bottom: 30px;
+  ul {
+    padding-left: 0;
+    li {
+      list-style: none;
+      margin-bottom: 15px;
+      a {
+        font-size: 14px;
+      }
+    }
+  }
+}
+
+.rock-popular-posts {
+  &__post {
+    display: flex;
+
+    &__thumbnail {
+      width: 75px;
+      height: 75px;
+      align-self: center;
+      margin-right: 20px;
+    }
+
+    &__link {
+      display: flex;
+      align-items: flex-start;
+      font-size: 13px !important;
+    }
+  }
+}
+
+.rock-widget-cta {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+  width: 100%;
+  background-color: $link;
+  text-align: center;
+
+  a {
+    z-index: 1000;
+    position: relative;
+    display: block;
+    color: #FFF;
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-size: 30px;
+    padding: 0 20px;
+
+    &::before, &::after {
+      background: #FFF;
+
+      content: "";
+      width: 100px;
+      height: 5px;
+      position: absolute;
+      left: 0;
+      right: 0;
+      margin: 0 auto;
+    }
+
+    &::before {
+      top: -20px;
+    }
+    &::after {
+      bottom: -20px;
+    }
+  }
+}

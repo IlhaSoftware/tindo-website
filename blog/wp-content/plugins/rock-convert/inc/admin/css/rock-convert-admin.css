@@ -1,0 +1,233 @@
+/**
+ * All of the CSS for your admin-specific functionality should be included in this file.
+ *
+ * The file is enqueued from inc/admin/class-admin.php.
+ */
+.rock-convert-image-preview {
+    padding-top: 20px;
+}
+
+.rock-convert-upload-button-remove {
+    float: right;
+}
+
+#rock-convert-ebook-meta.postbox .inside {
+    padding: 0;
+}
+
+.rock-convert-admin-download-meta {
+    padding: 12px;
+}
+
+.rock-convert-download-pdf-button-ico {
+    float: left;
+    margin-top: 4px;
+    margin-right: 8px;
+}
+
+.rock-convert-admin-download-meta-actions a::before {
+    color: #82878c !important;
+}
+
+.rock-convert-how-it-works {
+    /*background: #fbf7f0;*/
+    width: 630px;
+    margin: 20px 0;
+    font-size: 16px;
+}
+
+.rock-convert-how-it-works h3 {
+    margin: 0;
+    padding: 0;
+}
+
+.rock-convert-how-it-works h4 {
+
+    margin: 0;
+    margin-top: 30px;
+    padding: 0;
+    padding-bottom: 10px;
+    font-size: 16px;
+    border-bottom: 0.1rem dashed #aa9c84;
+}
+
+.rock-convert-how-it-works p {
+    font-size: 11px;
+}
+
+.rock-convert-settings-wrap {
+    padding-top: 20px;
+}
+
+.rock-convert-label-new {
+    background: #4285f4;
+    color: #FFF;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    padding: 3px 12px 4px;
+    line-height: 8px;
+    margin-left: 9px;
+    font-size: 12px;
+    position: relative;
+}
+
+.rock-convert-label-pro {
+    background: green;
+    color: #FFF;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    padding: 4px 11px 5px;
+    line-height: 8px;
+    margin-left: 9px;
+    font-size: 12px;
+    position: relative;
+}
+
+.rock-convert-exclude-pages .rock-convert-exclude-pages-link:first-child .rock-convert-exclude-pages-remove {
+    display: none;
+}
+
+.rock-convert-newsletter-form {
+    border-top: 1px solid #EEE;
+    padding-top: 20px;
+    margin-top: 15px;
+}
+
+.rock-convert-newsletter-form__input {
+    margin-top: 20px;
+    width: 310px;
+    height: 35px;
+}
+
+.rock-convert-newsletter-form__btn {
+    padding: 6px 36px !important;
+    margin-top: 20px !important;
+}
+
+.rock-convert-admin-subscribe-container--left {
+    max-width: 30%;
+}
+
+.rock-convert-admin-subscribe-container {
+    width: 62% !important;
+    padding-left: 40px;
+}
+
+.rconvert_announcement_position_preview {
+    float: left;
+    margin-right: 20px;
+}
+
+.rconvert_announcement-preview-img {
+    display: block;
+    margin-bottom: 12px;
+}
+
+.ann_preview {
+    width: 100%;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ann_preview,
+.ann_preview_text,
+.ann_preview_btn {
+    -webkit-transition: all .8s ease;
+    transition: all .8s ease;
+}
+
+.ann_preview_btn {
+    border-radius: 30px;
+    text-transform: uppercase;
+    color: #fff;
+    text-decoration: none !important;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 600;
+    float: right;
+    margin: 0 0 0 20px;
+    padding: 4px 20px;
+}
+
+.rock-convert-admin-premium-form {
+    position: relative;
+    margin-bottom: 20px;
+    padding-top: 10px;
+}
+
+.rock-convert-admin-premium-form-container {
+    filter: blur(3px);
+    pointer-events: none;
+}
+
+.rock-convert-admin-premium-form-container label {
+    color: #999;
+}
+
+.rock-convert-admin-premium-form-link {
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.rconvert-analytics-numbers {
+    color: #46b450;
+    font-size: 29px;
+    line-height: 40px;
+    font-weight: bold;
+    display: block;
+}
+
+.rconvert-analytics-label {
+    font-size: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.rconvert-analytics-label img {
+    margin-right: 7px;
+    width: 16px;
+}
+
+.rconvert-analytics-icon {
+    color: #B2B2B2;
+}
+
+.rconvert-analytics-divider {
+    border-bottom: 1px solid #EEE;
+    border-top: 0;
+    margin: 10px 0;
+}
+
+.rock-convert-settings-wrap .dashicons-star-filled:before{
+    margin-top: -4px;
+}
+
+@media (min-width: 1380px) {
+    .rock-convert-admin-subscribe-container--left {
+        width: 25%;
+        max-width: 25%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .rock-convert-admin-subscribe-container {
+        width: 100%;
+        padding-left: 0;
+        padding-top: 20px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .rock-convert-admin-subscribe-container {
+        width: 100%;
+        padding-left: 0;
+        padding-top: 20px;
+    }
+}
+

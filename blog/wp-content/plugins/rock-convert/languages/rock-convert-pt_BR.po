@@ -1,0 +1,724 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rock Convert\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-08 18:14+0000\n"
+"PO-Revision-Date: 2019-03-08 18:20+0000\n"
+"Last-Translator: admin <hugo.dias@rockcontent.com>\n"
+"Language-Team: Portuguese (Brazil)\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.1"
+
+#: Users/hugo/code/rock-convert/code/inc/frontend/class-download.php:116
+msgid "Faça o download deste post inserindo seu e-mail abaixo"
+msgstr "Faça o download deste post inserindo seu e-mail abaixo"
+
+#: Users/hugo/code/rock-convert/code/inc/frontend/class-download.php:126
+msgid "Informe seu e-mail aqui"
+msgstr "Informe seu e-mail aqui"
+
+#: Users/hugo/code/rock-convert/code/inc/frontend/class-download.php:131
+msgid "Fazer Download"
+msgstr "Fazer Download"
+
+#: Users/hugo/code/rock-convert/code/inc/frontend/class-download.php:136
+msgid "Não se preocupe, não fazemos spam."
+msgstr "Não se preocupe, não fazemos spam."
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-admin.php:77
+msgid ""
+"<strong>Ops!</strong> Parece que você ainda não ativou a funcionalidade de "
+"analytics do Rock Convert!"
+msgstr ""
+"<strong>Ops!</strong> Parece que você ainda não ativou a funcionalidade de "
+"analytics do Rock Convert!"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-admin.php:80
+msgid "Clique aqui"
+msgstr "Clique aqui"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:27
+msgid "Configurações do Rock Convert"
+msgstr "Configurações do Rock Convert"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:28
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-description.php:3
+msgid "Configurações"
+msgstr "Configurações"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:160
+msgid "Início"
+msgstr "Início"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:163
+msgid "Integrações"
+msgstr "Integrações"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:166
+msgid "Contatos"
+msgstr "Contatos"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:171
+msgid "Atualizações realizadas com sucesso!"
+msgstr "Atualizações realizadas com sucesso!"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:215
+msgid "Comece a usar"
+msgstr "Comece a usar"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:217
+msgid "Adicionar um banner"
+msgstr "Adicionar um banner"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:220
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:445
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:578
+msgid "Precisa de ajuda?"
+msgstr "Precisa de ajuda?"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:226
+msgid "Dúvidas comuns (FAQ)"
+msgstr "Dúvidas comuns (FAQ)"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:232
+msgid "Sugerir nova funcionalidade"
+msgstr "Sugerir nova funcionalidade"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:238
+msgid "Relatar um problema"
+msgstr "Relatar um problema"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:245
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:316
+msgid "Adquirir versão premium"
+msgstr "Adquirir versão premium"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:252
+msgid "Próximos passos"
+msgstr "Próximos passos"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:258
+msgid "O que é CTA: Tudo que você precisa saber"
+msgstr "O que é CTA: Tudo que você precisa saber"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:264
+msgid "Como usar os parâmetros de UTM"
+msgstr "Como usar os parâmetros de UTM"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:274
+msgid "Recursos disponíveis"
+msgstr "Recursos disponíveis"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:291
+msgid "Salvar visualizações e cliques"
+msgstr "Salvar visualizações e cliques"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:292
+msgid "Novo!"
+msgstr "Novo!"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:296
+msgid ""
+"Ative esta opção para coletar os dados de visualizações e clicks nos banners "
+"do Rock Convert."
+msgstr ""
+"Ative esta opção para coletar os dados de visualizações e clicks nos banners "
+"do Rock Convert."
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:307
+msgid "Remover \"Powered by Rock Convert\" abaixo dos anúncios"
+msgstr "Remover \"Powered by Rock Convert\" abaixo dos anúncios"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:324
+msgid "Salvar configurações"
+msgstr "Salvar configurações"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:361
+msgid "Atualizações"
+msgstr "Atualizações"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:362
+msgid "Cadastre seu e-mail abaixo para receber novidades do Rock Convert!"
+msgstr "Cadastre seu e-mail abaixo para receber novidades do Rock Convert!"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:367
+msgid "Digite seu e-mail"
+msgstr "Digite seu e-mail"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:369
+msgid "Cadastrar"
+msgstr "Cadastrar"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:388
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:601
+msgid "Ferramentas de automação"
+msgstr "Ferramentas de automação"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:391
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:604
+msgid ""
+"Selecione abaixo uma ferramenta de automação e envie os leads gerados pelos "
+"formulários do Rock Convert."
+msgstr ""
+"Selecione abaixo uma ferramenta de automação e envie os leads gerados pelos "
+"formulários do Rock Convert."
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:412
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:625
+msgid "Salvar integrações"
+msgstr "Salvar integrações"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:434
+msgid "Chave de API do MailChimp"
+msgstr "Chave de API do MailChimp"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:447
+msgid "Veja como criar uma chave de API para o MailChimp"
+msgstr "Veja como criar uma chave de API para o MailChimp"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:457
+msgid "Atenção: nenhuma lista encontrada."
+msgstr "Atenção: nenhuma lista encontrada."
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:463
+#, php-format
+msgid ""
+"Confira se a chave de API está correta e se esta conta já possui uma lista "
+"criada. Caso ainda não tenha nenhuma lista, saiba como criar <a href=\"%s\">"
+"clicando aqui</a>."
+msgstr ""
+"Confira se a chave de API está correta e se esta conta já possui uma lista "
+"criada. Caso ainda não tenha nenhuma lista, saiba como criar <a href=\"%s\">"
+"clicando aqui</a>."
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:476
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:481
+msgid "Selecione uma lista"
+msgstr "Selecione uma lista"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:489
+msgid "Escolha uma lista para enviar os contatos coletados pelo Rock Convert."
+msgstr "Escolha uma lista para enviar os contatos coletados pelo Rock Convert."
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:533
+msgid "Token público da RD Station"
+msgstr "Token público da RD Station"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:544
+msgid "Para encontrar o token público da RD Station acesse:"
+msgstr "Para encontrar o token público da RD Station acesse:"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:567
+msgid "URL do form da HubSpot"
+msgstr "URL do form da HubSpot"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:580
+msgid "Acesse a central de ajuda da HubSpot"
+msgstr "Acesse a central de ajuda da HubSpot"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:584
+msgid "Formato da URL:"
+msgstr "Formato da URL:"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:587
+msgid ""
+"Onde: <strong>PORTAL_ID</strong> é o id da conta e <strong>FORM_GUID</strong>"
+" é o ID do\n"
+"                        formulário."
+msgstr ""
+"Onde: <strong>PORTAL_ID</strong> é o id da conta e <strong>FORM_GUID</strong>"
+" é o ID do\n"
+"                        formulário."
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:639
+msgid "Disponível na versão Premium"
+msgstr "Disponível na versão Premium"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:680
+msgid "Exportar"
+msgstr "Exportar"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:682
+msgid ""
+"Para fazer o download dos contatos capturados pelo formulário de download no "
+"formato <strong>CSV</strong>, clique abaixo."
+msgstr ""
+"Para fazer o download dos contatos capturados pelo formulário de download no "
+"formato <strong>CSV</strong>, clique abaixo."
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:687
+msgid "contatos salvos."
+msgstr "contatos salvos."
+
+#: Users/hugo/code/rock-convert/code/inc/admin/class-page-settings.php:696
+msgid "Exportar no formato CSV"
+msgstr "Exportar no formato CSV"
+
+#: Users/hugo/code/rock-convert/code/inc/frontend/widget/class-subscribe.php:13
+msgid "Caixa de captura | Rock Convert"
+msgstr "Caixa de captura | Rock Convert"
+
+#: Users/hugo/code/rock-convert/code/inc/frontend/widget/class-subscribe.php:14
+msgid "Colete e-mails dos leitores no site"
+msgstr "Colete e-mails dos leitores no site"
+
+#: Users/hugo/code/rock-convert/code/inc/frontend/widget/class-subscribe.php:37
+msgid "<strong>Ops!</strong><br/> Favor informar um e-mail válido!"
+msgstr "<strong>Ops!</strong><br/> Favor informar um e-mail válido!"
+
+#: Users/hugo/code/rock-convert/code/inc/frontend/widget/class-subscribe.php:43
+msgid "<strong>Pronto!</strong><br/> E-mail cadastrado com sucesso."
+msgstr "<strong>Pronto!</strong><br/> E-mail cadastrado com sucesso."
+
+#: Users/hugo/code/rock-convert/code/inc/frontend/widget/class-subscribe.php:87
+msgid "Receba nossos conteúdos gratuitamente!"
+msgstr "Receba nossos conteúdos gratuitamente!"
+
+#: Users/hugo/code/rock-convert/code/inc/frontend/widget/class-subscribe.php:92
+msgid "Receber conteúdo"
+msgstr "Receber conteúdo"
+
+#: Users/hugo/code/rock-convert/code/inc/frontend/widget/class-subscribe.php:97
+msgid "Não te mandaremos spam!"
+msgstr "Não te mandaremos spam!"
+
+#: Users/hugo/code/rock-convert/code/inc/frontend/widget/class-subscribe.php:110
+#: Users/hugo/code/rock-convert/code/inc/frontend/widget/class-banner.php:56
+msgid "Título"
+msgstr "Título"
+
+#: Users/hugo/code/rock-convert/code/inc/frontend/widget/class-subscribe.php:117
+msgid "Texto de ajuda"
+msgstr "Texto de ajuda"
+
+#: Users/hugo/code/rock-convert/code/inc/frontend/widget/class-subscribe.php:124
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-description.php:24
+msgid "Texto do botão"
+msgstr "Texto do botão"
+
+#: Users/hugo/code/rock-convert/code/inc/frontend/widget/class-subscribe.php:132
+msgid "Redirecionar para"
+msgstr "Redirecionar para"
+
+#: Users/hugo/code/rock-convert/code/inc/frontend/widget/class-subscribe.php:138
+msgid "Continuar na mesma página"
+msgstr "Continuar na mesma página"
+
+#: Users/hugo/code/rock-convert/code/inc/frontend/widget/class-subscribe.php:147
+msgid "Selecione para onde o usuário será redirecionado ao cadastrar o email."
+msgstr "Selecione para onde o usuário será redirecionado ao cadastrar o email."
+
+#: Users/hugo/code/rock-convert/code/inc/frontend/widget/class-banner.php:11
+msgid "Banner customizável | Rock Convert"
+msgstr "Banner customizável | Rock Convert"
+
+#: Users/hugo/code/rock-convert/code/inc/frontend/widget/class-banner.php:12
+msgid "Adiciona um CTA na sidebar"
+msgstr "Adiciona um CTA na sidebar"
+
+#: Users/hugo/code/rock-convert/code/inc/frontend/widget/class-banner.php:43
+msgid "Conheça nossos produtos"
+msgstr "Conheça nossos produtos"
+
+#: Users/hugo/code/rock-convert/code/inc/frontend/widget/class-banner.php:64
+msgid "Link do CTA"
+msgstr "Link do CTA"
+
+#: Users/hugo/code/rock-convert/code/inc/frontend/widget/class-banner.php:72
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-style.php:9
+msgid "Cor do fundo"
+msgstr "Cor do fundo"
+
+#: Users/hugo/code/rock-convert/code/inc/frontend/widget/class-banner.php:80
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-style.php:16
+msgid "Cor do texto"
+msgstr "Cor do texto"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/ebook/class-meta-box.php:32
+msgid "Captura de leads"
+msgstr "Captura de leads"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/ebook/class-meta-box.php:55
+msgid "Disponibilizar post para download"
+msgstr "Disponibilizar post para download"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/ebook/class-meta-box.php:59
+msgid "Permitir o download do post no formato PDF pelos leitores do site."
+msgstr "Permitir o download do post no formato PDF pelos leitores do site."
+
+#: Users/hugo/code/rock-convert/code/inc/admin/ebook/class-meta-box.php:65
+msgid "Código do formulário"
+msgstr "Código do formulário"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/ebook/class-meta-box.php:71
+msgid "Copie e cole o código acima em qualquer lugar do texto"
+msgstr "Copie e cole o código acima em qualquer lugar do texto"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/ebook/class-meta-box.php:94
+msgid "Visualizar arquivo PDF"
+msgstr "Visualizar arquivo PDF"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/ebook/class-generator.php:201
+msgid "Irks! An error has occurred."
+msgstr "Irks! An error has occurred."
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:45
+msgid "Categorias de exibição"
+msgstr "Categorias de exibição"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:53
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-visibility.php:3
+msgid "Visibilidade"
+msgstr "Visibilidade"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:65
+msgid "Configurações do Banner"
+msgstr "Configurações do Banner"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:87
+msgid "Utilização em qualquer lugar"
+msgstr "Utilização em qualquer lugar"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:109
+msgid "Estatísticas"
+msgstr "Estatísticas"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:131
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-post-type.php:95
+msgid "Visualizações"
+msgstr "Visualizações"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:141
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-post-type.php:96
+msgid "Clicks"
+msgstr "Clicks"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:152
+msgid "Taxa de conversão"
+msgstr "Taxa de conversão"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:157
+msgid "Atenção:"
+msgstr "Atenção:"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:157
+msgid "A funcionalidade analytics não está habilitada."
+msgstr "A funcionalidade analytics não está habilitada."
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:157
+msgid "Para ver as estatísticas deste CTA"
+msgstr "Para ver as estatísticas deste CTA"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:158
+msgid "habilite a funcionalidade Analytics"
+msgstr "habilite a funcionalidade Analytics"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:169
+msgid "Selecione a imagem do banner"
+msgstr "Selecione a imagem do banner"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:197
+msgid "Exibir em todas as páginas das categorias selecionadas"
+msgstr "Exibir em todas as páginas das categorias selecionadas"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:198
+msgid ""
+"O banner será exibido em todos os posts que estejam nas categorias "
+"selecionadas ao lado."
+msgstr ""
+"O banner será exibido em todos os posts que estejam nas categorias "
+"selecionadas ao lado."
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:210
+msgid "Exibir em todas exceto:"
+msgstr "Exibir em todas exceto:"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:211
+msgid ""
+"Exibe em todos os posts que estejam nas categorias selecionadas ao lado, com "
+"exceção das páginas cadastradas abaixo."
+msgstr ""
+"Exibe em todos os posts que estejam nas categorias selecionadas ao lado, com "
+"exceção das páginas cadastradas abaixo."
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:229
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:241
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-visibility.php:66
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-visibility.php:78
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-visibility.php:92
+msgid "Exemplo"
+msgstr "Exemplo"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:251
+msgid "Adicionar página"
+msgstr "Adicionar página"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:265
+msgid ""
+"Copie e cole o código abaixo para exibir o banner em qualquer lugar do "
+"conteúdo."
+msgstr ""
+"Copie e cole o código abaixo para exibir o banner em qualquer lugar do "
+"conteúdo."
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:269
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:311
+msgid "Link"
+msgstr "Link"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:317
+msgid "Não utilize parâmetros do tipo UTM neste campo."
+msgstr "Não utilize parâmetros do tipo UTM neste campo."
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:324
+msgid "UTM Source"
+msgstr "UTM Source"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:330
+msgid "Ex: google, newsletter"
+msgstr "Ex: google, newsletter"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:337
+msgid "UTM Campaign"
+msgstr "UTM Campaign"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:344
+msgid "Ex: ebook_de_natal"
+msgstr "Ex: ebook_de_natal"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:351
+msgid "Posição do CTA"
+msgstr "Posição do CTA"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:365
+msgid "Acima do conteúdo"
+msgstr "Acima do conteúdo"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:377
+msgid "No meio do conteúdo"
+msgstr "No meio do conteúdo"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-meta-box.php:389
+msgid "Abaixo do conteúdo"
+msgstr "Abaixo do conteúdo"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-post-type.php:35
+msgctxt "Post Type General Name"
+msgid "Banners"
+msgstr "Banners"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-post-type.php:37
+msgctxt "Post Type Singular Name"
+msgid "Banner"
+msgstr "Banner"
+
+#. Name of the plugin
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-post-type.php:39
+msgid "Rock Convert"
+msgstr "Rock Convert"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-post-type.php:40
+msgid "Parent CTA"
+msgstr "Parent CTA"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-post-type.php:41
+msgid "Todos os banners"
+msgstr "Todos os banners"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-post-type.php:42
+msgid "Visualizar banner"
+msgstr "Visualizar banner"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-post-type.php:43
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-post-type.php:44
+msgid "Novo banner"
+msgstr "Novo banner"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-post-type.php:45
+msgid "Alterar banner"
+msgstr "Alterar banner"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-post-type.php:46
+msgid "Atualizar banner"
+msgstr "Atualizar banner"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-post-type.php:47
+msgid "Buscar banner"
+msgstr "Buscar banner"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-post-type.php:48
+msgid "Não encontrato"
+msgstr "Não encontrato"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-post-type.php:49
+msgid "Não encontrado na lixeira"
+msgstr "Não encontrado na lixeira"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-post-type.php:57
+msgid "cta"
+msgstr "cta"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-post-type.php:58
+msgid "Banners de CTA"
+msgstr "Banners de CTA"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-post-type.php:97
+msgid "CTR"
+msgstr "CTR"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-post-type.php:98
+msgid "Categorias"
+msgstr "Categorias"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/cta/class-custom-post-type.php:99
+msgid "Data"
+msgstr "Data"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/class-announcement.php:46
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/class-announcement.php:47
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-settings-page.php:48
+msgid "Barra de anúncios"
+msgstr "Barra de anúncios"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-style.php:3
+msgid "Estilo da barra de anúncios"
+msgstr "Estilo da barra de anúncios"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-style.php:23
+msgid "Cor do botão"
+msgstr "Cor do botão"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-style.php:30
+msgid "Cor do texto do botão"
+msgstr "Cor do texto do botão"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-style.php:38
+msgid "Pre-visualização"
+msgstr "Pre-visualização"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-style.php:55
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-description.php:66
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-visibility.php:98
+msgid "Salvar todas as configurações"
+msgstr "Salvar todas as configurações"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-settings-page.php:39
+msgid "Sucesso"
+msgstr "Sucesso"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-settings-page.php:39
+msgid "Lembre-se de limpar o cache"
+msgstr "Lembre-se de limpar o cache"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-settings-page.php:39
+msgid ""
+"caso utilize algum plugin de\n"
+"            performance como W3 Total Cache, WP Optimizer, etc..."
+msgstr ""
+"caso utilize algum plugin de\n"
+"            performance como W3 Total Cache, WP Optimizer, etc..."
+
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-settings-page.php:50
+msgid "Configurações para a barra de anúncios"
+msgstr "Configurações para a barra de anúncios"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-description.php:10
+msgid "Ativar barra de anúncios"
+msgstr "Ativar barra de anúncios"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-description.php:14
+msgid "Texto do anúncio"
+msgstr "Texto do anúncio"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-description.php:18
+msgid ""
+"É recomendado que o texto tenha no máximo <strong>70 caracteres</strong>"
+msgstr ""
+"É recomendado que o texto tenha no máximo <strong>70 caracteres</strong>"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-description.php:29
+msgid "Dica:"
+msgstr "Dica:"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-description.php:30
+msgid ""
+"Para deixar a barra de anúncios sem botão, basta deixar o campo acima vazio."
+msgstr ""
+"Para deixar a barra de anúncios sem botão, basta deixar o campo acima vazio."
+
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-description.php:36
+msgid "Link do botão"
+msgstr "Link do botão"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-description.php:41
+msgid "Posição onde a barra deve aparecer"
+msgstr "Posição onde a barra deve aparecer"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-description.php:48
+msgid "Fixa no topo do site"
+msgstr "Fixa no topo do site"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-description.php:58
+msgid "Fixa no fundo do site"
+msgstr "Fixa no fundo do site"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-visibility.php:6
+msgid "Escolha em quais páginas a barra de anúncios deve ser exibida."
+msgstr "Escolha em quais páginas a barra de anúncios deve ser exibida."
+
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-visibility.php:15
+msgid "Apenas dentro de posts."
+msgstr "Apenas dentro de posts."
+
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-visibility.php:17
+msgid "O banner será exibido apenas dentro das páginas de posts do blog."
+msgstr "O banner será exibido apenas dentro das páginas de posts do blog."
+
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-visibility.php:30
+msgid "Todas páginas."
+msgstr "Todas páginas."
+
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-visibility.php:31
+msgid "O banner será exibido em todas as páginas, inclusive na página inicial."
+msgstr ""
+"O banner será exibido em todas as páginas, inclusive na página inicial."
+
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-visibility.php:45
+msgid "Todas as páginas exceto"
+msgstr "Todas as páginas exceto"
+
+#: Users/hugo/code/rock-convert/code/inc/admin/announcements/views/announcements-form-visibility.php:47
+msgid ""
+"O banner será exibido em todas as páginas, com exceção das páginas "
+"cadastradas abaixo."
+msgstr ""
+"O banner será exibido em todas as páginas, com exceção das páginas "
+"cadastradas abaixo."
+
+#. Description of the plugin
+msgid ""
+"Publique banners no seu blog de maneira rápida e efetiva, e converta "
+"visitantes em subscribers, leads ou clientes sem precisar entender código."
+msgstr ""
+"Publique banners no seu blog de maneira rápida e efetiva, e converta "
+"visitantes em subscribers, leads ou clientes sem precisar entender código."
+
+#. URI of the plugin
+msgid "https://convert.rockcontent.com/"
+msgstr "https://convert.rockcontent.com/"
+
+#. Author of the plugin
+msgid "Rock Stage"
+msgstr "Rock Stage"
+
+#. Author URI of the plugin
+msgid "https://stage.rockcontent.com"
+msgstr "https://stage.rockcontent.com"

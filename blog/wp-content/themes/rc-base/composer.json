@@ -1,0 +1,10 @@
+{
+    "name": "rockcontent/rc-wordpress-base",
+    "description": "Rockcontent Wordpress base template",
+    "type": "wordpress-theme",
+    "license": "GPL-2.0",
+    "minimum-stability": "stable",
+    "require": {"composer/installers": "^1.5"},
+    "keywords": ["wordpress","theme","bootstrap"],
+    "homepage": "https://github.com/rockcontent/rc-wordpress-base"
+}
